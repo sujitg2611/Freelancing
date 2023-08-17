@@ -54,7 +54,7 @@ const Gig = () => {
           <div className="seller">
             <h2>About the Seller</h2>
             <div className="user">
-              <img src="" alt="" />
+              <img src="/img/pic 1.jpg" alt="" />
               <div className="info">
                 <span>John Doe</span>
                 <div className="stars">
@@ -105,7 +105,7 @@ const Gig = () => {
             <h2>Reviews</h2>
             <div className="item">
               <div className="user">
-                <img className="pp" src="" alt="" />
+                <img className="pp" src="/img/pic 5.jpg" alt="" />
                 <div className="info">
                   <span>John Doe</span>
                   <div className="country">
@@ -141,7 +141,7 @@ const Gig = () => {
             <hr />
             <div className="item">
               <div className="user">
-                <img className="pp" src="" alt="" />
+                <img className="pp" src="/img/pic 2.jpg" alt="" />
                 <div className="info">
                   <span>John Doe</span>
                   <div className="country">
@@ -177,7 +177,7 @@ const Gig = () => {
             <hr />
             <div className="item">
               <div className="user">
-                <img className="pp" src="" alt="" />
+                <img className="pp" src="/img/pic 4.jpg" alt="" />
                 <div className="info">
                   <span>John Doe</span>
                   <div className="country">
